@@ -1,4 +1,6 @@
-##### Life is filled with a bunch of experiences,here I explore a part of life experiences with Data
+# About 
+####I’m proficient in creating  and offering proffering user data driven solutions for user needs, performance, behavior and inclusion. I’m skilled  in analyzing, and visualizing trends, creating predictive models with the use of data scripting languages.
+I have good knowledge of  SQL,  R,  Python, Excel , Tableau and Power BI for data analytics. 
 
 
 # [User Behaviour Prediction - Insurance premium default using R programming](https://github.com/DeborahOsilade/User-Behaviour-Prediction---Insurance-premium-default---R-programming)
