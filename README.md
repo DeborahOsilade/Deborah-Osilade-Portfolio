@@ -1,6 +1,7 @@
 # About 
 
 I’m proficient in creating  and offering proffering user data driven solutions for user needs, performance, behavior and inclusion. I’m skilled  in analyzing, and visualizing trends, creating predictive models with the use of data scripting languages. I have good knowledge of  SQL,  R,  Python, Excel , Tableau and Power BI for data analytics. 
+[You can see my CV here](https://docs.google.com/document/d/e/2PACX-1vTkMZ5rYO_PpwiJwAoJ_kgaFtjUPkJUnRFbxMws12aNVKew4gBc2NwcF6He5j70Ull4U-9P_dhxIvcn/pub)
 
 # Top Project
 
