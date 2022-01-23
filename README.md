@@ -2,8 +2,9 @@
 ####I’m proficient in creating  and offering proffering user data driven solutions for user needs, performance, behavior and inclusion. I’m skilled  in analyzing, and visualizing trends, creating predictive models with the use of data scripting languages.
 I have good knowledge of  SQL,  R,  Python, Excel , Tableau and Power BI for data analytics. 
 
+# Top Project
 
-# [User Behaviour Prediction - Insurance premium default using R programming](https://github.com/DeborahOsilade/User-Behaviour-Prediction---Insurance-premium-default---R-programming)
+## [User Behaviour Prediction - Insurance premium default using R programming](https://github.com/DeborahOsilade/User-Behaviour-Prediction---Insurance-premium-default---R-programming)
 #### Project Overview
 #### Sector - Finance
 
@@ -15,7 +16,7 @@ Identifying Insurance Premium Payment Defaulters: Designing a strategy that a cu
 ##### Skills and Tools: Cluster Analysis, Decision Trees, Regression, R, Random Forest, Xgboost
 
 
-# [User Behaviour Prediction - Customer Satisfaction using Python](https://github.com/DeborahOsilade/User-Behaviour-Prediction---Customer-Satisfaction-using-Python)
+## [User Behaviour Prediction - Customer Satisfaction using Python](https://github.com/DeborahOsilade/User-Behaviour-Prediction---Customer-Satisfaction-using-Python)
 #### Project Overview
 #### Sector - Aviation
 In aviation, an airline departure or arrival is considered to be on time when a departure or arrival that occurs within 15 minutes of the scheduled time. (OTP) Ontime performance is a valuable metric for airlines and a metric that can affect customer loyalty and satisfaction. 
@@ -26,7 +27,7 @@ In aviation, an airline departure or arrival is considered to be on time when a 
 2. Created a strategy on how to solve it
 
 
-# [User Behaviour Prediction - Loan Defaulters - Credit risk](https://github.com/DeborahOsilade/User-Behaviour-Prediction---Loan-Defaulters---Credit-risk)
+## [User Behaviour Prediction - Loan Defaulters - Credit risk](https://github.com/DeborahOsilade/User-Behaviour-Prediction---Loan-Defaulters---Credit-risk)
 #### project overview
 #### Sector - Finance 
 
