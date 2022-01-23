@@ -3,6 +3,8 @@
 
 # [User Behaviour Prediction - Insurance premium default using R programming](https://github.com/DeborahOsilade/User-Behaviour-Prediction---Insurance-premium-default---R-programming)
 #### Project Overview
+#### Sector - Finance
+
 Identifying Insurance Premium Payment Defaulters: Designing a strategy that a customer will default the premium payment, so that the insurance agent can proactively reach out to the policy holder to follow up for the payment of premium.
 #### In this project ,
 1. Identifies that customer will default insurance premium payments.
@@ -13,6 +15,7 @@ Identifying Insurance Premium Payment Defaulters: Designing a strategy that a cu
 
 # [User Behaviour Prediction - Customer Satisfaction using Python](https://github.com/DeborahOsilade/User-Behaviour-Prediction---Customer-Satisfaction-using-Python)
 #### Project Overview
+#### Sector - Aviation
 In aviation, an airline departure or arrival is considered to be on time when a departure or arrival that occurs within 15 minutes of the scheduled time. (OTP) Ontime performance is a valuable metric for airlines and a metric that can affect customer loyalty and satisfaction. 
 
 #### This project,
