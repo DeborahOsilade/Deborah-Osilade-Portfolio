@@ -11,7 +11,7 @@ I’m proficient in creating  and offering proffering user data driven solutions
 #### Tool - Python
 This Project explores basic summary of data and graphical exploration using ggplot2. Shows the differences between customers choice of products and the relationships between the different attributes of customers.
 
-##[Cold Storage](https://github.com/DeborahOsilade/Cold-Storage-assignment/blob/master/Cold%20storage.R)
+## [Cold Storage](https://github.com/DeborahOsilade/Cold-Storage-assignment/blob/master/Cold%20storage.R)
 #### Project Overview 
 #### Sector - Wellness
 #### Tool - R 
