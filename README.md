@@ -8,7 +8,15 @@ I’m proficient in creating  and offering proffering user data driven solutions
 ## [Cardio Fitness](https://github.com/DeborahOsilade/Cardio_fitness/blob/main/Cardio_Fitness_Gym-checkpoint.ipynb)
 #### Project Overview 
 #### Sector - Wellness
+#### Tool - Python
 This Project explores basic summary of data and graphical exploration using ggplot2. Shows the differences between customers choice of products and the relationships between the different attributes of customers.
+
+##[Cold Storage](https://github.com/DeborahOsilade/Cold-Storage-assignment/blob/master/Cold%20storage.R)
+#### Project Overview 
+#### Sector - Wellness
+#### Tool - R 
+Making business decisions using a test for hypothesis to decide whether to continue doing business with outsourced company based on products getting bad. 
+Whose fault could it be based on the damaged goods and how much penalty annual maintenance fee should be paid to the outsourced company based on storage temperature agreement.
 
 ## [User Behaviour Prediction - Insurance premium default using R programming](https://github.com/DeborahOsilade/User-Behaviour-Prediction---Insurance-premium-default---R-programming)
 #### Project Overview
