@@ -3,7 +3,12 @@
 I’m proficient in creating  and offering proffering user data driven solutions for user needs, performance, behavior and inclusion. I’m skilled  in analyzing, and visualizing trends, creating predictive models with the use of data scripting languages. I have good knowledge of  SQL,  R,  Python, Excel , Tableau and Power BI for data analytics. 
 [You can see my CV here](https://docs.google.com/document/d/e/2PACX-1vTkMZ5rYO_PpwiJwAoJ_kgaFtjUPkJUnRFbxMws12aNVKew4gBc2NwcF6He5j70Ull4U-9P_dhxIvcn/pub)
 
-# Top Project
+# Projects
+
+## [Cardio Fitness](https://github.com/DeborahOsilade/Cardio_fitness/blob/main/Cardio_Fitness_Gym-checkpoint.ipynb)
+#### Project Overview 
+#### Sector - Wellness
+This Project explores basic summary of data and graphical exploration using ggplot2. Shows the differences between customers choice of products and the relationships between the different attributes of customers.
 
 ## [User Behaviour Prediction - Insurance premium default using R programming](https://github.com/DeborahOsilade/User-Behaviour-Prediction---Insurance-premium-default---R-programming)
 #### Project Overview
