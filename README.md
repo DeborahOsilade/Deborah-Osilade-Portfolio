@@ -7,16 +7,29 @@ I’m proficient in creating  and offering proffering user data driven solutions
 
 ## [Cardio Fitness](https://github.com/DeborahOsilade/Cardio_fitness/blob/main/Cardio_Fitness_Gym-checkpoint.ipynb)
 #### Project Overview 
-#### Sector - Wellness
-#### Tool - Python
+##### Sector - Wellness
+##### Tool - Python
 This Project explores basic summary of data and graphical exploration using ggplot2. Shows the differences between customers choice of products and the relationships between the different attributes of customers.
 
 ## [Cold Storage](https://github.com/DeborahOsilade/Cold-Storage-assignment/blob/master/Cold%20storage.R)
 #### Project Overview 
-#### Sector - FCMG
-#### Tool - R 
+##### Sector - FCMG
+##### Tool - R 
 Making business decisions using a test for hypothesis to decide whether to continue doing business with outsourced company based on products getting bad. 
 Whose fault could it be based on the damaged goods and how much penalty annual maintenance fee should be paid to the outsourced company based on storage temperature agreement.
+
+## [GDP Growth Analysis](https://drive.google.com/drive/folders/1ePdlrCT2hZhHP_ScMIdZfKWKrSsYL1fB)
+#### Project Overview 
+##### Sector - Economy
+##### Tool - Power Bi
+Analysing growth of countries GDP and population 
+
+## [Analyzing Students Performance](https://github.com/DeborahOsilade/Student_perforamnce)
+#### Project Overview 
+#### Sector - Education
+#### Tool - R 
+how students who took the test preparation course performed in the tests. Our target variable is test preparation course. The documentation to this code can be found on my Medium. 
+[Find my Medium](https://deborahosilade.medium.com/how-exploratory-data-analysis-can-help-you-understand-users-8e0b9af2f3c4)
 
 ## [User Behaviour Prediction - Insurance premium default using R programming](https://github.com/DeborahOsilade/User-Behaviour-Prediction---Insurance-premium-default---R-programming)
 #### Project Overview
