@@ -1,13 +1,14 @@
 # About 
 
+[](https://github.com/DeborahOsilade/Deborah-Osilade/blob/main/Images/Deborah%20Osilade%20(1).png)
 I’m proficient in creating  and offering proffering user data driven solutions for user needs, performance, behavior and inclusion. I’m skilled  in analyzing, and visualizing trends, creating predictive models with the use of data scripting languages. I have good knowledge of  SQL,  R,  Python, Excel , Tableau and Power BI for data analytics. 
-[You can see my CV here](https://docs.google.com/document/d/e/2PACX-1vTkMZ5rYO_PpwiJwAoJ_kgaFtjUPkJUnRFbxMws12aNVKew4gBc2NwcF6He5j70Ull4U-9P_dhxIvcn/pub)
+![You can see my CV here](https://github.com/DeborahOsilade/Deborah-Osilade/blob/main/Images/Deborah%20Osilade%20(1).png)
 
 
 # Projects
 
 
-## Cardio Fitness
+## Project 1: Cardio Fitness
 #### Project Overview 
 ##### Sector - Wellness
 ##### Tool - Python
@@ -15,7 +16,7 @@ This Project explores basic summary of data and graphical exploration using ggpl
 ##### [View this Project](https://github.com/DeborahOsilade/Cardio_fitness/blob/main/Cardio_Fitness_Gym-checkpoint.ipynb)
 
 
-## Cold Storage
+## Project 2: Cold Storage
 #### Project Overview 
 ##### Sector - FCMG
 ##### Tool - R 
@@ -25,7 +26,7 @@ Whose fault could it be based on the damaged goods and how much penalty annual m
 
 
 
-## GDP Growth Analysis
+## Project 3:  GDP Growth Analysis
 #### Project Overview 
 ##### Sector - Economy
 ##### Tool - Power Bi
@@ -34,7 +35,7 @@ Analysing growth of countries GDP and population
 
 
 
-## Analyzing Students Performance
+## Project 4:  Analyzing Students Performance
 #### Project Overview 
 Sector - Education
 Tool - R 
@@ -45,9 +46,10 @@ how students who took the test preparation course performed in the tests. Our ta
 
 
 
-## User Behaviour Prediction - Insurance premium default using R programming
+## Project 5:  Insurance premium default 
 #### Project Overview
 Sector - Finance
+Tool - R 
 Identifying Insurance Premium Payment Defaulters: Designing a strategy that a customer will default the premium payment, so that the insurance agent can proactively reach out to the policy holder to follow up for the payment of premium.
 Skills and Tools: Cluster Analysis, Decision Trees, Regression, R, Random Forest, Xgboost
 ##### [View this Project](https://github.com/DeborahOsilade/User-Behaviour-Prediction---Insurance-premium-default---R-programming)
@@ -55,7 +57,7 @@ Skills and Tools: Cluster Analysis, Decision Trees, Regression, R, Random Forest
 
 
 
-## User Behaviour Prediction - Customer Satisfaction using Python
+## Project 6:  Customer Satisfaction 
 #### Project Overview
 Sector - Aviation
 In aviation, an airline departure or arrival is considered to be on time when a departure or arrival that occurs within 15 minutes of the scheduled time. (OTP) Ontime performance is a valuable metric for airlines and a metric that can affect customer loyalty and satisfaction. 
@@ -63,7 +65,7 @@ In aviation, an airline departure or arrival is considered to be on time when a 
 
 
 
-## User Behaviour Prediction - Loan Defaulters - Credit risk
+## Project 7:  Loan Defaulters - Credit risk
 #### project overview
 Sector - Finance 
 In this project
